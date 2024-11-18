@@ -49,5 +49,3 @@ Firefox
 - **透明度**：了解 Claude 如何得出结论
 - **改进的组织**：更有效地管理长对话
 - **质量控制**：受益于内置的验证步骤
-
-### 项目地址：[https://github.com/richards199999/Thinking-Claude](https://www.upx8.com/go/aHR0cHM6Ly9naXRodWIuY29tL3JpY2hhcmRzMTk5OTk5L1RoaW5raW5nLUNsYXVkZQ)
