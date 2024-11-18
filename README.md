@@ -1,6 +1,6 @@
 快速提醒：思维 Claude 并非针对基准测试或数学等领域的重大突破，因为这些都由基础模型（新的 Claude-3.5 Sonnet）预先决定。我只是想探索我们能在 Claude 的"深度思维模式"下达到什么程度。话虽如此，当您在日常任务中使用它时，您会发现 Claude 的内部独白（思维过程）非常有趣。
-<video src="https://raw.githubusercontent.com/hadis898/hadis898/refs/heads/main/pic/demo.mp4" />
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+<video src="https://raw.githubusercontent.com/hadis898/hadis898/refs/heads/main/pic/demo.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 本项目包含两个主要组件：
 
 1. **思维协议**：指导 Claude 在回应前进行深入系统思考的全面指令集
