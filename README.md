@@ -1,16 +1,9 @@
 快速提醒：思维 Claude 并非针对基准测试或数学等领域的重大突破，因为这些都由基础模型（新的 Claude-3.5 Sonnet）预先决定。我只是想探索我们能在 Claude 的"深度思维模式"下达到什么程度。话虽如此，当您在日常任务中使用它时，您会发现 Claude 的内部独白（思维过程）非常有趣。
 
-<video src="https://raw.githubusercontent.com/hadis898/hadis898/refs/heads/main/pic/demo.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+## Demo:
 
 
-<video width="320" height="240" controls>
-    <source src="https://raw.githubusercontent.com/hadis898/hadis898/refs/heads/main/pic/demo.mp4" type="video/mp4">
-</video>
-
-
-
-
-<video src="https://raw.githubusercontent.com/hadis898/hadis898/refs/heads/main/pic/demo.mp4" controls="controls" width="500" height="300"></video>
+https://github.com/user-attachments/assets/88ff0c75-c51b-42b9-a042-00d47053795a
 
 
 本项目包含两个主要组件：
